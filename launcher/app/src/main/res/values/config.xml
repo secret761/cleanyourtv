@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <!-- ===== YOUR DOCK APPS (4 apps, left-to-right order) ===== -->
     <string-array name="dock_apps">
         <item>org.smarttube.stable</item>
